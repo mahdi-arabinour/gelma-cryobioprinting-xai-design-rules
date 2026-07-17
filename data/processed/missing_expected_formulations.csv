@@ -1,0 +1,5 @@
+formulation_id,permeable_cpa,permeable_conc_pct,sugar_cpa,sugar_conc_pct,status
+EG_5_RA_20,EG,5,RA,20,not_present_in_source_dataset
+EG_10_RA_20,EG,10,RA,20,not_present_in_source_dataset
+EG_15_RA_20,EG,15,RA,20,not_present_in_source_dataset
+EG_20_RA_20,EG,20,RA,20,not_present_in_source_dataset

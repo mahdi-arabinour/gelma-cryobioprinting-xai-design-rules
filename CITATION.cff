@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "Cryobioprinting XAI Design-Rule Discovery"
+message: "Please cite the associated manuscript and the original Qiao et al. dataset when using this software or reconstructed dataset."
+type: software
+version: 1.0.0
+authors:
+  - family-names: "Arabinour"
+    given-names: "Mahdi"
+  - family-names: "Sotudeh"
+    given-names: "Nasser"
+  - family-names: "Sultani"
+    given-names: "Nargis"
+  - family-names: "Ziebarth"
+    given-names: "Noel Marysa"
+  - family-names: "Tayebi"
+    given-names: "Lobat"
+  - family-names: "Zhou"
+    given-names: "Xiangyang"
+abstract: "Reproducible leakage-safe explainable machine-learning workflow for extracting local cryoprotective-agent design hypotheses from the published GelMA-HUVEC cryobioprinting formulation space."
+license: MIT
+keywords:
+  - cryobioprinting
+  - GelMA
+  - cryoprotective agents
+  - explainable machine learning
+  - SHAP
+  - grouped cross-validation
+preferred-citation:
+  type: article
+  title: "From Prediction to Design Rules: Explainable Machine Learning Analysis of Cryoprotectant Effects in GelMA-Based Cryobioprinting Bioinks"
+  authors:
+    - family-names: "Arabinour"
+      given-names: "Mahdi"
+    - family-names: "Sotudeh"
+      given-names: "Nasser"
+    - family-names: "Sultani"
+      given-names: "Nargis"
+    - family-names: "Ziebarth"
+      given-names: "Noel Marysa"
+    - family-names: "Tayebi"
+      given-names: "Lobat"
+    - family-names: "Zhou"
+      given-names: "Xiangyang"
+  year: 2026
