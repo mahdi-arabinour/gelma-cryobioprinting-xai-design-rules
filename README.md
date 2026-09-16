@@ -125,4 +125,15 @@ No missing formulations were imputed and no unreported viability values were inf
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. The GitHub repository URL and Zenodo DOI should be added only after the public repository and versioned Zenodo record have been created.
+## Citation
+
+Citation metadata are provided in `CITATION.cff`.
+
+GitHub repository:
+https://github.com/mahdi-arabinour/gelma-cryobioprinting-xai-design-rules
+
+Zenodo DOI for all versions:
+https://doi.org/10.5281/zenodo.21407415
+
+Corrected release v1.0.1:
+https://doi.org/10.5281/zenodo.22802874
