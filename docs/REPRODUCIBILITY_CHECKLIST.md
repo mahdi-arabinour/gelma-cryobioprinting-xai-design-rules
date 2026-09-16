@@ -36,6 +36,6 @@
 ## Release preparation
 
 - [ ] Repository URL has been added to `CITATION.cff` only after the GitHub repository exists.
-- [ ] Version is tagged as `v1.0.0` only after the final files are verified.
+- [ ] Version is tagged as `v1.0.1` only after the final files are verified.
 - [ ] Zenodo DOI is added only after the GitHub release has been archived.
 - [ ] The manuscript and Supplementary Information use the final real links, not placeholder links.
