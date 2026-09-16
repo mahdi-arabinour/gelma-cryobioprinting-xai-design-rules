@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.1
+
+- Corrected authorship metadata in `CITATION.cff` at the request of a previously listed individual. No scientific content, source code, data, analyses, results, or software functionality were changed.
 ## 1.0.0
 
 - separated the source-style reconstruction from the standardized modeling table;
