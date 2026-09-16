@@ -125,7 +125,6 @@ No missing formulations were imputed and no unreported viability values were inf
 
 ## Citation
 
-## Citation
 
 Citation metadata are provided in `CITATION.cff`.
 
