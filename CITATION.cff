@@ -6,14 +6,12 @@ version: 1.0.1
 authors:
   - family-names: "Arabinour"
     given-names: "Mahdi"
-  - family-names: "Sotudeh"
-    given-names: "Nasser"
   - family-names: "Sultani"
     given-names: "Nargis"
-  - family-names: "Tayebi"
-    given-names: "Lobat"
   - family-names: "Zhou"
     given-names: "Xiangyang"
+  - family-names: "Tayebi"
+    given-names: "Lobat"
 abstract: "Reproducible leakage-safe explainable machine-learning workflow for extracting local cryoprotective-agent design hypotheses from the published GelMA-HUVEC cryobioprinting formulation space."
 license: MIT
 keywords:
@@ -29,12 +27,10 @@ preferred-citation:
   authors:
     - family-names: "Arabinour"
       given-names: "Mahdi"
-    - family-names: "Sotudeh"
-      given-names: "Nasser"
     - family-names: "Sultani"
       given-names: "Nargis"
-    - family-names: "Tayebi"
-      given-names: "Lobat"
     - family-names: "Zhou"
       given-names: "Xiangyang"
+    - family-names: "Tayebi"
+      given-names: "Lobat"
   year: 2026
